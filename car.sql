@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`admin_id`, `admin_username`, `admin_name`, `admin_phone`, `admin_password`, `admin_email`, `admin_address`) VALUES
-(10001, 'Abdullah Wafiy', 'Abdullah Wafiy', '019-3100463', 'admin', 'wafiyabdullah39@gmail.com', 'NO 3, JALAN SERINDIT, TAMAN SERINDIT 3, 44000 SELANGOR'),
+(10001, 'Abdullah Wafiy', 'Abdullah Wafiy', '019-3190463', 'admin', 'wafiyabdullah@gmail.com', 'NO 3, JALAN SERINDIT, TAMAN SERINDIT 3, 44000 SELANGOR'),
 (10002, 'Ikmal Hakim', 'Ikmal Hakim', '018-456902', 'admin', 'IkmalHakim@gmail.com', '32, APARTMENT TAMAN MELUR, 44000 SELANGOR'),
 (10003, 'Adib', 'Adib', '017-533256', 'admin', 'adib@gmail.com', 'NO 123, BLOK A, FLAT TAMAN RATA, 44000 SELANGOR'),
 (10004, 'Syamil', 'Syamil', '012-400321', 'admin', 'syamil@gmail.com', 'NO 22, JALAN 3, TAMAN RINTING, 44000 SELANGOR'),
